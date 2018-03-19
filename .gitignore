@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+Debug
+3DBPP_Data_Consolidator/Debug
+*.sdf
